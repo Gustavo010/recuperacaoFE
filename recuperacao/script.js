@@ -56,7 +56,4 @@ function clicar() {
 
 }
 
-//Apaga registro pelo button
-function apagarButton(element) {
-    element.parentNode.parentNode.remove();
-}
+
